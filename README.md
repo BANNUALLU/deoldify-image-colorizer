@@ -18,4 +18,6 @@ This project uses **DeOldify**, a deep learning model, to automatically colorize
 - fastai
 - Google Colab
 - Jupyter Notebook
-![WhatsApp Image 2025-08-03 at 11 33 34_dd1ddc04](https://github.com/user-attachments/assets/63a9a77a-4e73-45d8-9092-90fd0994d2d5)
+
+
+<img width="1812" height="1014" alt="Screenshot 2025-08-03 113702" src="https://github.com/user-attachments/assets/e2f7d82b-2d49-4b86-93be-7ee341ca4196" />
